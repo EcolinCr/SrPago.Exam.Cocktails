@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SrPago.Examem.Cocktails.Data\SrPago.Examem.Cocktails.DataAccess.csproj" />
+    <ProjectReference Include="..\SrPago.Examen.Cocktails.Model\SrPago.Examen.Cocktails.Model.csproj" />
+  </ItemGroup>
+
+</Project>
